@@ -1,4 +1,4 @@
-# FOGPatcher by Alexandre BOTZUNG (alexandre.botzung@GrandEst.fr) - F�v2023..Jan2025
+﻿# FOGPatcher by Alexandre BOTZUNG (alexandre.botzung@GrandEst.fr) - Fév2023..Jan2025
 # 
 # Provides a way to execute powershell script before reboot/shutdown initiated by FOG Client (Windows only)
 #
